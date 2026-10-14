@@ -66,3 +66,26 @@ Cada contribuição ajuda a manter o projeto sustentável e a desenvolver novas 
 **Vitrine ZAP Premium — tecnologia, dedicação e colaboração. 💚**
 
 © 2026 Vitrine ZAP
+
+## 📂 Repositórios oficiais do ecossistema Vitrine Zap
+
+| Repositório | Finalidade |
+|---|---|
+| [Vitrine-Zap](https://github.com/Olnair2932/Vitrine-Zap) | Código-fonte do aplicativo Android e workflow de compilação do APK. |
+| [Vitrine-Zap-Downloads](https://github.com/Olnair2932/Vitrine-Zap-Downloads) | Distribuição pública dos APKs e histórico de versões. |
+| [Vitrine-Zap-Admin](https://github.com/olnairpereira/Vitrine-Zap-Admin) | Painel administrativo para gerenciamento de usuários e anúncios. |
+| [ZapWeb](https://github.com/Olnair2932/ZapWeb) | Aplicação web com feed de publicações e recursos de mídia. |
+
+### 🌐 Serviços publicados
+
+- **Página oficial de download:** https://vitrine-zap-premium.web.app/
+- **Painel administrativo:** https://vitrine-zap-admin.onrender.com/
+- **ZapWeb:** https://zapweb-6e8a8.web.app/
+
+### 🔄 Relação entre os projetos
+
+O Vitrine-Zap contém o código-fonte Android. O APK compilado é disponibilizado no Vitrine-Zap-Downloads, e a página oficial direciona os usuários ao arquivo publicado.
+
+O Vitrine-Zap-Admin é um projeto separado para administrar usuários e anúncios. O ZapWeb possui código-fonte e fluxo de publicação próprios.
+
+Compartilhar um projeto Firebase não significa necessariamente compartilhar o mesmo banco de dados ou workflow.
