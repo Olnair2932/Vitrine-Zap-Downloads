@@ -1,9 +1,68 @@
-# Vitrine Zap — Downloads oficiais
+# 📱 Vitrine ZAP Premium
 
-Repositório público destinado à distribuição das versões do aplicativo Vitrine Zap para Android.
+**Seu marketplace no celular. Experiência Premium.**
 
-## Download
+O Vitrine ZAP facilita a criação, o gerenciamento e o compartilhamento de anúncios de produtos pelo celular.
 
-Consulte a seção Releases para baixar o APK publicado.
+## 📥 Download oficial para Android
 
-O código-fonte do aplicativo não está neste repositório.
+### Vitrine ZAP v1.0.73 — Premium REAL
+
+[**⬇️ BAIXAR VITRINE ZAP (APK)**](https://github.com/Olnair2932/Vitrine-Zap-Downloads/releases/download/v1.0.73/app-release.apk)
+
+[Ver todas as versões disponíveis](https://github.com/Olnair2932/Vitrine-Zap-Downloads/releases)
+
+O código-fonte do aplicativo permanece em um repositório separado.
+
+## 🌐 Links oficiais
+
+- [Página oficial de download](https://vitrine-zap-premium.web.app/)
+- [ZapWeb](https://zapweb-6e8a8.web.app/#home)
+- [Catálogo oficial](https://vitrine-zap-admin.onrender.com/)
+- [Contato do desenvolvedor](mailto:olnairpereira@gmail.com)
+
+## 💚 Apoie o desenvolvimento
+
+O Vitrine ZAP é um projeto desenvolvido com dedicação. Sua contribuição voluntária ajuda a custear hospedagem, armazenamento de fotos e vídeos, infraestrutura em nuvem, manutenção e novas melhorias.
+
+Qualquer valor é bem-vindo. A doação é voluntária e não é obrigatória para baixar o aplicativo.
+
+### 📲 Contribua via Pix
+
+- **Chave Pix:** `51981989606`
+- **Recebedor informado:** Olnair Pereira
+- **Contato:** olnairpereira@gmail.com
+
+Antes de confirmar uma transferência, confira se o nome do recebedor exibido pelo seu banco corresponde ao destinatário esperado.
+
+## 💰 Estimativa de custos de infraestrutura
+
+Como referência ilustrativa, três serviços pagos básicos considerados no planejamento são:
+
+| Serviço | Estimativa mensal |
+|---|---:|
+| Cloudinary Plus | R$ 497,14 |
+| Um serviço Render Starter | R$ 35,15 |
+| GitHub Pro | R$ 20,09 |
+| **Subtotal estimado** | **R$ 552,38/mês** |
+
+Valores de referência convertidos de dólares para reais. Não representam uma fatura real nem uma obrigação de contratação.
+
+O Firebase Blaze tem custo variável conforme o consumo. Outros serviços Render, impostos, câmbio, tráfego e armazenamento podem aumentar o total. GitHub Pro e Cloudinary Plus não são necessariamente necessários em todas as etapas do projeto.
+
+A meta inicial de apoio sugerida é de **R$ 600 por mês**, sujeita à revisão conforme os custos reais. Não há garantia de disponibilidade permanente dos serviços.
+
+## 🔐 Distribuição e segurança
+
+- Este repositório público é destinado à distribuição dos APKs.
+- O código-fonte permanece separado.
+- Baixe o aplicativo pelos links oficiais.
+- O Android pode solicitar autorização para instalar aplicativos obtidos fora da loja oficial.
+
+## 🤝 Obrigado pelo apoio!
+
+Cada contribuição ajuda a manter o projeto sustentável e a desenvolver novas melhorias para a comunidade.
+
+**Vitrine ZAP Premium — tecnologia, dedicação e colaboração. 💚**
+
+© 2026 Vitrine ZAP
