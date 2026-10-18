@@ -6,9 +6,9 @@ O Vitrine ZAP facilita a criação, o gerenciamento e o compartilhamento de anú
 
 ## 📥 Download oficial para Android
 
-### Vitrine ZAP v1.0.73 — Premium REAL
+### Vitrine ZAP v1.1 — Premium REAL
 
-[**⬇️ BAIXAR VITRINE ZAP (APK)**](https://github.com/Olnair2932/Vitrine-Zap-Downloads/releases/download/v1.0.73/app-release.apk)
+[**⬇️ BAIXAR VITRINE ZAP (APK)**](https://github.com/Olnair2932/Vitrine-Zap-Downloads/raw/main/app-release.apk)
 
 [Ver todas as versões disponíveis](https://github.com/Olnair2932/Vitrine-Zap-Downloads/releases)
 
